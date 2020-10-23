@@ -1,6 +1,6 @@
 # FIFA 21 Player & Team FULL Database
 
-> update 5.10.2020
+> update 9.10.2020
 
 See full data description on Kaggle: https://www.kaggle.com/cashncarry/fifa-21-players-teams-full-database
 
