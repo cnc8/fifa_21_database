@@ -1,12 +1,12 @@
 # FIFA 21 Player & Team FULL Database
 
-> update 9.10.2020
+> update 11.12.2020
 
 See full data description on Kaggle: https://www.kaggle.com/cashncarry/fifa-21-players-teams-full-database
 
 ## players_fifa21.csv
 
-18980 players and 90 features
+19020 players and 90 features
 
 I have replaced positions that do not exist in fifa, for example \["LS", "RS"] with "ST".
 And a few more brief introductory notes:
